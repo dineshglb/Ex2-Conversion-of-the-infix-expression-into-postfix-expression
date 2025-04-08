@@ -13,7 +13,7 @@ To write a C program to convert the infix expression into postfix form using sta
 ## Program:
 ```
 /*
-Program to find and display the priority of the operator in the given Postfix expression
+Program to convert the infix expression into postfix expression
 Developed by: 
 RegisterNumber:  
 */
